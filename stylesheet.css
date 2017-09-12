@@ -20,6 +20,7 @@ a.button:link, a.button:visited{
 	text-align:center;
 	text-decoration:none;
 	display:inline-block;
+	font-family:"Comic Sans MS", cursive, sans-serif;
 }
 a.button:hover, a:active{
 	background-color:skyblue;
@@ -33,9 +34,23 @@ a:hover, a:active{
 	color:black;
 }
 img{
+	float:left;
 	width:306px;
 	border:1px solid black;
 	padding:10px 10px 60px 10px;
 	margin:10px;
 	background-color:white;
+	
+}
+#Kate_header{
+	text-align: center;
+	font-weight:bold;
+	font-variant:small-caps;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#about_header{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#about_me{
+	font-family:"Comic Sans MS", cursive, sans-serif;
 }
